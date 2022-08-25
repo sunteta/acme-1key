@@ -8,6 +8,9 @@
 
 ```shell
 wget -N --no-check-certificate https://raw.githubusercontent.com/misaka-gh/acme-1key/master/acme1key.sh && bash acme1key.sh
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/sunteta/acme-1key/master/acme1key.sh && bash acme1key.sh
+
 ```
 
 快捷方式 `bash acme1key.sh`
